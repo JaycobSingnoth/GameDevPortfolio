@@ -16,7 +16,7 @@ My project work includes procedural generation, save and checkpoint systems, glo
 
 **Team Game Project | Unreal Engine | C++ and Blueprints**
 
-A team game project featuring a procedural maze, persistent player progress, and reusable puzzles and traps.
+Mad Card is a horror game where players navigate a procedurally generated maze, solve puzzles, and avoid enemies and traps as they search for a way forward.
 
 **My contributions**
 
@@ -28,7 +28,9 @@ A team game project featuring a procedural maze, persistent player progress, and
 
 **Team Game Project | C++ | Visual Studio | Firebase**
 
-A collaborative game project with a real-time global leaderboard and systems for tracking player scores and lives.
+2851 is an endless arcade space shooter where players battle waves of enemy UFOs and bosses across three repeating stages of increasing difficulty. Collect power-ups, manage limited lives and invulnerability rolls, and survive as long as possible while competing for a place on the global leaderboard.
+
+[View on itch.io](https://goseuteu.itch.io/2851)
 
 **My contributions**
 
@@ -40,7 +42,9 @@ A collaborative game project with a real-time global leaderboard and systems for
 
 **Team Game Project | Unity**
 
-A team game project in which I contributed to the power-up system and gameplay integration.
+Astral Arms is a sci-fi dungeon crawler where players battle robots while progressing through a series of space vessels. Players use single-shot and spread-shot attacks to clear enemies before facing the High-Manufacturer.
+
+[View on itch.io](https://goseuteu.itch.io/astral-a)
 
 **My contributions**
 
