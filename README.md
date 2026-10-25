@@ -10,7 +10,7 @@ I'm a Game Development student at Full Sail University, with an expected graduat
 
 ## Resume
 
-[Download my resume here](https://github.com/user-attachments/files/33917372/JSS.Resume.pdf) Updated: 10/24/26
+[Download my resume here](https://github.com/user-attachments/files/33917976/JSS.Resume.pdf) Updated: 10/24/26
 
 
 ## Featured Projects
