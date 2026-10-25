@@ -18,6 +18,8 @@ My project work includes procedural generation, save and checkpoint systems, glo
 
 Mad Card is a horror game where players navigate a procedurally generated maze, solve puzzles, and avoid enemies and traps as they search for a way forward.
 
+[View on itch.io](https://amatuer-madman.itch.io/mad-card)
+
 <img width="384" height="216" alt="MadCardGif-compressed" src="https://github.com/user-attachments/assets/b38b4730-ffff-4c96-b412-b08e193aab39" />
 
 **My contributions**
@@ -33,6 +35,8 @@ Mad Card is a horror game where players navigate a procedurally generated maze, 
 2851 is an endless arcade space shooter where players battle waves of enemy UFOs and bosses across three repeating stages of increasing difficulty. Collect power-ups, manage limited lives and invulnerability rolls, and survive as long as possible while competing for a place on the global leaderboard.
 
 [View on itch.io](https://goseuteu.itch.io/2851)
+
+<img width="600" height="338" alt="2851-compressed" src="https://github.com/user-attachments/assets/304dbf22-b31b-4c51-8ad0-5981c7d8f58c" />
 
 **My contributions**
 
