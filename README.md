@@ -10,6 +10,11 @@ I'm a Game Development student at Full Sail University, with an expected graduat
 
 My project work includes procedural generation, save and checkpoint systems, global leaderboards, and power-ups. I enjoy building gameplay systems, solving programming problems, and collaborating with teammates to bring projects from concept to completion.
 
+## Resume
+
+[Download my resume here](https://github.com/user-attachments/files/33917372/JSS.Resume.pdf) Updated: 10/24/26
+
+
 ## Featured Projects
 
 ### Mad Card
