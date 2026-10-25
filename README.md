@@ -6,9 +6,7 @@
 
 ## About Me
 
-I'm a Game Development student at Full Sail University, with an expected graduation in December 2026. I develop games and software using C++, C#, Unreal Engine, and Unity.
-
-My project work includes procedural generation, save and checkpoint systems, global leaderboards, and power-ups. I enjoy building gameplay systems, solving programming problems, and collaborating with teammates to bring projects from concept to completion.
+I'm a Game Development student at Full Sail University, with an expected graduation in December 2026. I develop games and software using C++, C#, Unreal Engine, and Unity. I graduated early from Northeast High School, where I participated in the IT Academy. I've been gaming since I was five, and that interest eventually led me to coding and game development. My project work includes procedural generation, save and checkpoint systems, global leaderboards, and power-ups. I enjoy building gameplay systems, solving programming problems, and collaborating with teammates to bring projects from concept to completion.
 
 ## Resume
 
