@@ -18,6 +18,8 @@ My project work includes procedural generation, save and checkpoint systems, glo
 
 Mad Card is a horror game where players navigate a procedurally generated maze, solve puzzles, and avoid enemies and traps as they search for a way forward.
 
+<img width="384" height="216" alt="MadCardGif-compressed" src="https://github.com/user-attachments/assets/b38b4730-ffff-4c96-b412-b08e193aab39" />
+
 **My contributions**
 
 - Developed a procedural maze generator with branching paths, modular rooms, overlap validation, and automatic navigation bounds resizing.
