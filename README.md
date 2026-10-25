@@ -84,7 +84,7 @@ A calculator application demonstrating arithmetic operations, input validation, 
 | Game development | Unreal Engine, Unity, gameplay programming, Blueprints |
 | Programming fundamentals | Object-oriented programming, data structures and algorithms |
 | Core systems | Multithreading, networking, computer graphics |
-| Tools and workflow | Git, GitHub, Visual Studio, Linux, debugging and testing |
+| Tools and workflow | Git, GitHub, Perforce, Visual Studio, Linux, debugging and testing |
 
 ## Education
 
