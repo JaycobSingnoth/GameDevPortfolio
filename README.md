@@ -52,6 +52,8 @@ Astral Arms is a sci-fi dungeon crawler where players battle robots while progre
 
 [View on itch.io](https://goseuteu.itch.io/astral-a)
 
+<img width="600" height="338" alt="AstralArms-compressed" src="https://github.com/user-attachments/assets/8a35e5a2-ba2b-4ba5-b728-cd3c31371803" />
+
 **My contributions**
 
 - Developed the game's power-up system and integrated gameplay functionality.
